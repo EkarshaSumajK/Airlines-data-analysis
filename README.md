@@ -231,19 +231,4 @@ This project demonstrates:
 ## 📝 License
 
 This project is for educational and portfolio purposes.
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- Neon for serverless PostgreSQL hosting
-- Streamlit for dashboard framework
-- Faker for sample data generation
-
----
-
-**⭐ If you found this project helpful, please give it a star!**
+ul, please give it a star!**
